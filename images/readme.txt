@@ -1,0 +1,2 @@
+# Here's where there's gonna be all the cats and dogs photos in order to train and test our Convolutional Neural Network
+# Link to data: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblZjMjFmZEQtQlhKYlVhRlhXOFNwaVVrUGtKUXxBQ3Jtc0tuckdmRGF2RXpyUmI5OWhZMHF5Y0RnNG9Kc01JUUJuTFNQSUlEelNJMDJ5MnF2c1liS1F1YTFUX1dsaGRXX2twcV93VzZXektHbDQ3Z2RxYmM0ajk4cXFOc0pxdXNJU3E2cjhJUmZOR2ZGWHlqa2hXNA&q=https%3A%2F%2Fstorage.googleapis.com%2Fmledu-datasets%2Fcats_and_dogs_filtered.zip 
