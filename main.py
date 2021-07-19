@@ -51,7 +51,7 @@ train_data_gen = train_image_generator.flow_from_directory(batch_size=BATCH_SIZE
                                                             target_size=(IMG_SHAPE, IMG_SHAPE),
                                                             class_mode='binary')
 
-val_data_gen = train_image_generator.flow_from_directory(batch_size=BATCH_SIZE,
+val_data_gen = validation_image_generator.flow_from_directory(batch_size=BATCH_SIZE,
                                                             directory=validation_dir,
                                                             shuffle=False,
                                                             target_size=(IMG_SHAPE, IMG_SHAPE),
